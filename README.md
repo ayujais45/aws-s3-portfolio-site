@@ -28,6 +28,11 @@ This is a simple yet professional personal portfolio website built using HTML, C
 ![S3 Console](https://github.com/user-attachments/assets/17f59c58-99e4-47c3-b2be-90a52bc343af)
 *S3 bucket setup for static website hosting*
 
+### 🎬 Demo Video
+
+[Watch on Google Drive](https://drive.google.com/file/d/1Y2fT97WaKaIj6JHfYYl6IVofh81hnK_U/view?usp=sharing)
+
+
 ## 📁 Folder Structure
 <pre><code>
 aws-s3-portfolio-site/
